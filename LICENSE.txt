@@ -1,0 +1,42 @@
+# plista SDK License Agreement
+This License Agreement (“Agreement”) governs any usage of the plista Software Development Kit (“SDK”). SDK contains sample code to be used by plista publishers to develop their own app integration of plista’s inFeed Video product. While each integration will look different given the uniqueness of each app, this SDK will prove helpful for those looking for past examples of successful in app integration of plista´s inFeed Video product. 
+Parties of this Agreement will be the party using the SDK (“User”) and plista GmbH (“plista”) (collectively “the Parties”). By using this SDK the User agrees to be bound by the terms of this Agreement. 
+
+1. Usage
+Usage is in particular, but not exclusively downloading, installing, amending and copying of any part of the SDK (“Usage”). 
+
+2. Granting of License
+plista grants the User a limited, non-exclusive, non-transferable, royalty-free, non-assignable, revocable and terminable license to use the SDK in accordance with this Agreement. 
+The User
+a. may make a reasonable amount of copies of the SDK exclusively in order to develop programs to function with plista products.
+b. is allowed to use the SDK exclusively for development purposes and not for general business purposes or for distributions. 
+
+3. Restriction of the License
+The User
+a. may not market or distribute the SDK or any of its components as an independent product, in particular, but not limited to, distribute, sell, rent, lease, lend, grant rights in or sublicense. 
+b. may not use SDK in any way other than for the intended purpose according to this Agreement in particular, but not limited to, modify, publicly display, distribute, transfer, create derivative works, reverse engineer, reverse compile, adapt or disassemble the SDK. 
+c. may not develop any program which limits the functionality of the plista service. 
+d. may not use the SDK in violation of any law or statute which is particular, but not limited to, to develop any application or program containing viruses, Trojan horses, worms, logic bombs, cancel bots or other computer programming that are intended to damage, detrimentally interfere, surreptitiously intercept or expropriate any system data or personal information. 
+
+4. Proprietary Rights
+plista owns and retains all right, title, and interest in and to the SDK. Aside from the limited rights and licenses expressly granted hereunder, no other license or right is granted. 
+
+5. Support and Upgrades
+plista is not obligated to provide any technical or other support regarding the SDK. plista is not obligated to provide any upgrades or future versions of the SDK. 
+
+6. Disclaimer of Warranty
+The User expressly acknowledges and agrees that use of the SDK is at the User’s sole risk. To the maximum extent permitted by applicable law, the SDK is provided “as is” and “as available”, with all faults and without warranty of any kind. plista hereby disclaims all warranties and conditions with respect to the SDK, either express, implied or statutory.
+
+7. Limitation of Liability
+Except for gross negligence or willful misconduct, plista shall in no event be liable concerning the subject matter of this Agreement, regardless of the form of any claim or action for any indirect, punitive, incidental, reliance, special, exemplary or consequential damages including, but not limited to, loss of business, revenues, profits and goodwill or damages. 
+
+8. Term and Termination
+a. This Agreement will commence on the date the User uses the SDK or any part of it and will end upon its termination.
+b. This Agreement may be terminated by plista immediately and without notice if the User fails to comply with the terms of this Agreement. 
+c. Upon termination the granted license under this Agreement immediately terminates and the User has to destroy all its copies of the SDK.
+
+9. Final Provisions 
+a. Court of Jurisdiction and Applicable Law
+For all claims arising from the business relationship, the place of jurisdiction shall be plista’s place of business. However, plista is also entitled to exercise its rights to the general jurisdiction. This Agreement shall be governed by and construed in accordance with the laws of Germany without regard to the principles of conflicts of laws thereof and under exclusion of the United Nations Convention on Contracts for the International Sale of Goods (CISG). 
+b. Severability Clause
+Should a provision of this Agreement be or become invalid, this shall not affect the validity of the other provisions under this Agreement. In this case the parties shall replace the invalid or unenforceable provisions with a valid regulation that comes closest to fulfilling the economic purpose of the invalid or unenforceable provision. The same shall apply if this Agreement should contain a gap that requires supplementation.
