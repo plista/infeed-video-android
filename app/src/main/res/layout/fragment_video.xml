@@ -1,0 +1,29 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:id="@+id/videoOverlay">
+
+    <RelativeLayout
+        android:id="@+id/adUiContainer"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <com.google.ads.interactivemedia.v3.samples.samplevideoplayer.SampleVideoPlayer
+            android:id="@+id/sampleVideoPlayer"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_centerHorizontal="true" />
+
+        <ImageButton
+            android:id="@+id/playButton"
+            android:contentDescription="Play Button"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:src="@mipmap/ic_action_play_over_video"
+            android:background="@null" />
+
+    </RelativeLayout>
+
+</LinearLayout>

@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">plista InFeed-Demo</string>
+
+    <!-- google demo video -->
+    <string name="content_url"><![CDATA[http://rmcdn.2mdn.net/MotifFiles/html/1248596/android_1330378998288.mp4]]></string>
+
+    <!-- Plista demo VAST tag URLs -->
+
+
+    <string name="ad_tag_url"><![CDATA[http://farm.plista.com/video/vast/?publickey=7b76632d6efd6e1b463cdb06&widgetname=outstream&vastver=3.0&infeed&clientid=[id]&test=1]]></string>
+    <string name="ad_tag_url_broken"><![CDATA[http://farm.plista.com/video/vast/?publickey=f144bc1edf542f5c5c30bf1c&widgetname=outstream&infeed]]></string>
+
+    <string name="ad_tag_image_gif_url"><![CDATA[http://static-ru.plista.com/upload/videos/jaguar_ru_va_desktop_mar17/video.gif?_=1489584561]]></string>
+    <string name="ad_tag_image_fallback_url"><![CDATA[http://static-ru.plista.com/upload/videos/jaguar_ru_va_desktop_mar17/fallback.jpg]]></string>
+
+    <string name="powered_by">Powered by PLISTA</string>
+
+    <string name="item_blind_title">This is a headline</string>
+    <string name="item_blind_body">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut</string>
+    <string name="item_blind_footer">This is a footer</string>
+
+</resources>
